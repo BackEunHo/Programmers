@@ -1,4 +1,6 @@
 # [level 0] 수열과 구간 쿼리 3 - 181924 
+다른 사람 풀이 예시
+<img width="373" alt="스크린샷 2024-01-26 오후 11 03 25" src="https://github.com/BackEunHo/Programmers/assets/50124989/d55233f1-2d92-49c2-bb0f-294dc3737c5b">
 
 [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181924) 
 
