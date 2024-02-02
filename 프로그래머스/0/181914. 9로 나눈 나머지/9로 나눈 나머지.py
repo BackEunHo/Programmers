@@ -1,2 +1,2 @@
 def solution(number):
-    return int(number) % 9
+    return  sum(list(map(int,list(number)))) % 9
