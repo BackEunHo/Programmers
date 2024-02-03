@@ -2,6 +2,10 @@
 
 [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12928) 
 
+### 다른 사람의 코드
+<img width="681" alt="스크린샷 2024-02-04 오전 1 38 28" src="https://github.com/BackEunHo/Programmers/assets/50124989/721c8a0f-ff67-4b55-ac14-684e777eb9d2">
+
+
 ### 성능 요약
 
 메모리: 10.2 MB, 시간: 504.81 ms
